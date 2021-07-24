@@ -1,0 +1,24 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Diet Coke"
+    },
+    {
+      "id": "0afab4ff-6da0-41dd-982f-f3d07c851379",
+      "name": ""
+    },
+    {
+      "id": "ef24e9e4-55ed-45d8-a6a0-999b6d5b2e15",
+      "name": ""
+    },
+    {
+      "id": "2306b69a-20c6-4e1b-a471-6efffd9b514d",
+      "name": "teste"
+    },
+    {
+      "id": "2a10b8ca-9e4e-45fc-ac7b-81c84ce86274",
+      "name": "tese"
+    }
+  ]
+}
